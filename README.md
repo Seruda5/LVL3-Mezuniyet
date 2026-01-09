@@ -14,7 +14,7 @@ Proje, Kodland Level 3 mezuniyet gereksinimlerine uygun olarak geliştirilmişti
 
 ---
 
-## Botun Çalışma Mantığı
+## Botun Çalışma Mantığıı
 1. Kullanıcı `/basla` komutunu kullanır  
 2. Bot, kullanıcıyı Discord kimliği (ID) ile tanır  
 3. Kullanıcı, butonlar aracılığıyla ilgi alanını seçer  
@@ -41,17 +41,17 @@ Her meslek için aşağıdaki bilgiler tutulur:
 - Kısa açıklama  
 - Gerekli beceriler  
 
-### Kullanıcı Veri Tabanı (users.json)
+### Kullanıcı Veri Tabanı (usersjson)
 Bu dosya, kullanıcıya ait bilgileri saklar:
 - Kullanıcı ID  
 - Seçilen ilgi alanı  
-- Son önerilen meslek  
+- Son önerilen mesle
 
 Bu yapı sayesinde bot, kalıcı veri kullanarak çalışır.
 
 ---
 
-## Etkileşim Türleri
+## Etkileşim Türle
 - Metin komutları (`/basla`)
 - Butonlar aracılığıyla seçim yapma
 - Metin tabanlı geri bildirimler
@@ -67,7 +67,7 @@ Bu yapı sayesinde bot, kalıcı veri kullanarak çalışır.
 ---
 
 ## Proje Durumu
-Bu proje bir demo sürümüdür.  
-İlerleyen aşamalarda daha fazla ilgi alanı, detaylı kullanıcı profilleri ve gelişmiş öneri sistemleri eklenebilir.
+Bu proje bir demo sürümüdür  
+İlerleyen aşamalarda daha fazla ilgi alanı, detaylı kullanıcı profilleri ve gelişmiş öneri sistemleri eklenebiliryaw
 
 Bay SERDAR Off Güzel Oldu. 5 DAKİKA SÜRDÜ Uzundu Ama Kolaydı.
