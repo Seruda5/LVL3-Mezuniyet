@@ -52,7 +52,7 @@ Bu yapı sayesinde bot, kalıcı veri kullanarak çalışır.
 ---
 
 ## Etkileşim Türle
-- Metin komutları (`/basla`)
+- Metin komutları (`/kayit`)
 - Butonlar aracılığıyla seçim yapma
 - Metin tabanlı geri bildirimler
 
