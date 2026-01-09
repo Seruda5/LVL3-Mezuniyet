@@ -70,4 +70,4 @@ Bu yapı sayesinde bot, kalıcı veri kullanarak çalışır.
 Bu proje bir demo sürümüdür.  
 İlerleyen aşamalarda daha fazla ilgi alanı, detaylı kullanıcı profilleri ve gelişmiş öneri sistemleri eklenebilir.
 
-Bay SERDAR OYY HAVALI jsadfgbhsaıdfkldsjfkajshfbgsadkjh nys işte mezuniyet seysi 5dk aldı
+Bay SERDAR Off Güzel Oldu. 5 DAKİKA SÜRDÜ Uzundu Ama Kolaydı.
