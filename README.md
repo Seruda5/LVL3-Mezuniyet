@@ -35,5 +35,39 @@ Bu sayede bot, tekrar gelen kullanıcılara daha önceki tercihlerini hatırlata
 Projede JSON tabanlı iki farklı veri dosyası kullanılmaktadır.
 
 ### Meslek Veri Tabanı (careers.json)
-Bu dosya, ilgi alanlarına göre meslek bilgilerini iç
+Bu dosya, ilgi alanlarına göre meslek bilgilerini içerir.  
+Her meslek için aşağıdaki bilgiler tutulur:
+- Meslek adı  
+- Kısa açıklama  
+- Gerekli beceriler  
 
+### Kullanıcı Veri Tabanı (users.json)
+Bu dosya, kullanıcıya ait bilgileri saklar:
+- Kullanıcı ID  
+- Seçilen ilgi alanı  
+- Son önerilen meslek  
+
+Bu yapı sayesinde bot, kalıcı veri kullanarak çalışır.
+
+---
+
+## Etkileşim Türleri
+- Metin komutları (`/basla`)
+- Butonlar aracılığıyla seçim yapma
+- Metin tabanlı geri bildirimler
+
+---
+
+## Kullanılan Teknolojiler
+- Python  
+- discord.py  
+- JSON veri yapıları  
+- Visual Studio Code  
+
+---
+
+## Proje Durumu
+Bu proje bir demo sürümüdür.  
+İlerleyen aşamalarda daha fazla ilgi alanı, detaylı kullanıcı profilleri ve gelişmiş öneri sistemleri eklenebilir.
+
+Bay SERDAR OYY HAVALI jsadfgbhsaıdfkldsjfkajshfbgsadkjh nys işte mezuniyet seysi 5dk aldı
