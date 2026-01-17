@@ -1,0 +1,4522 @@
+{
+  "yazilim": [
+    {
+      "isim": "Yazilim Uzmanı 1",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Java",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 2",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 3",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Algoritma",
+        "Python",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 4",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Algoritma",
+        "C#",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 5",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 6",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Veritabanı",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 7",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Java",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 8",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Algoritma",
+        "Python",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 9",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Java",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 10",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 11",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Algoritma",
+        "C#",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 12",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Veritabanı",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 13",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Python",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 14",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Veritabanı",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 15",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Veritabanı",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 16",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Algoritma",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 17",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Algoritma",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 18",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Veritabanı",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 19",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Algoritma",
+        "Veritabanı",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 20",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Algoritma",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 21",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Python",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 22",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Algoritma",
+        "C#",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 23",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Java",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 24",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Algoritma",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 25",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Java",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 26",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Python",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 27",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Veritabanı",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 28",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Python",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 29",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 30",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 31",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Java",
+        "Veritabanı",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 32",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Java",
+        "Algoritma",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 33",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 34",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "C#",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 35",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Algoritma",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 36",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Python",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 37",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Algoritma",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 38",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Python",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 39",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Java",
+        "Veritabanı"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 40",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "C#",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 41",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Java",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 42",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Java",
+        "C#",
+        "Algoritma"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 43",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Algoritma",
+        "Java",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 44",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Python",
+        "Algoritma",
+        "Java"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 45",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Veritabanı",
+        "Java",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 46",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Java",
+        "Python",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 47",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Veritabanı",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 48",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Java",
+        "Algoritma",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 49",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Veritabanı",
+        "Python"
+      ]
+    },
+    {
+      "isim": "Yazilim Uzmanı 50",
+      "aciklama": "yazilim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Veritabanı",
+        "Python"
+      ]
+    }
+  ],
+  "tasarim": [
+    {
+      "isim": "Tasarim Uzmanı 1",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Figma",
+        "UI",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 2",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "Figma",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 3",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "Yaratıcılık",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 4",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Figma",
+        "Yaratıcılık",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 5",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "Yaratıcılık",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 6",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "Figma",
+        "UI"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 7",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "UI",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 8",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "Photoshop",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 9",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Photoshop",
+        "UI"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 10",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "Photoshop",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 11",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "UI",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 12",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "Yaratıcılık",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 13",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "UX",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 14",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UI",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 15",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Figma",
+        "Yaratıcılık",
+        "UI"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 16",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Figma",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 17",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UI",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 18",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "UI",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 19",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UI",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 20",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "Figma",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 21",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "Yaratıcılık",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 22",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "UI",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 23",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "Figma",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 24",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UX",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 25",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Figma",
+        "UI",
+        "Photoshop"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 26",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Photoshop",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 27",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "Photoshop",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 28",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "UX",
+        "UI"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 29",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "Figma",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 30",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UX",
+        "UI"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 31",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Photoshop",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 32",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "UX",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 33",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "Figma",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 34",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Figma",
+        "Yaratıcılık",
+        "UI"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 35",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Photoshop",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 36",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "UX",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 37",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "UI",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 38",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "UI",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 39",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "UI",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 40",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "Figma",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 41",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "UI",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 42",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "UX",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 43",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UI",
+        "UX",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 44",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UI",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 45",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "UX",
+        "UI",
+        "Figma"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 46",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Figma",
+        "Photoshop",
+        "UX"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 47",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "Figma",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 48",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UI",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 49",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "UX",
+        "UI"
+      ]
+    },
+    {
+      "isim": "Tasarim Uzmanı 50",
+      "aciklama": "tasarim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Photoshop",
+        "UX",
+        "Yaratıcılık"
+      ]
+    }
+  ],
+  "saglik": [
+    {
+      "isim": "Saglik Uzmanı 1",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 2",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 3",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 4",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İlk Yardım",
+        "İletişim",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 5",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "İlk Yardım",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 6",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İlk Yardım",
+        "Empati",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 7",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İlk Yardım",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 8",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İlk Yardım",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 9",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 10",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İletişim",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 11",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 12",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İletişim",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 13",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Anatomi",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 14",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İletişim",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 15",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 16",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İlk Yardım",
+        "Anatomi",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 17",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Empati",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 18",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "İlk Yardım",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 19",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Empati",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 20",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "İlk Yardım",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 21",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İlk Yardım",
+        "İletişim",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 22",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İlk Yardım",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 23",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İlk Yardım",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 24",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "Anatomi",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 25",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İletişim",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 26",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İletişim",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 27",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İletişim",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 28",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "Anatomi",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 29",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 30",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Anatomi",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 31",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İlk Yardım",
+        "Anatomi",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 32",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Empati",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 33",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İletişim",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 34",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İlk Yardım",
+        "Anatomi",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 35",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İletişim",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 36",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "İlk Yardım",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 37",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İletişim",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 38",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "İlk Yardım",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 39",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "Anatomi",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 40",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Anatomi",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 41",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İlk Yardım",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 42",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İletişim",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 43",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Empati",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 44",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "Anatomi",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 45",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Anatomi",
+        "İlk Yardım"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 46",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İlk Yardım",
+        "Anatomi",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 47",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Empati",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 48",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Anatomi",
+        "Empati"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 49",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Empati",
+        "İlk Yardım",
+        "Anatomi"
+      ]
+    },
+    {
+      "isim": "Saglik Uzmanı 50",
+      "aciklama": "saglik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anatomi",
+        "Empati",
+        "İletişim"
+      ]
+    }
+  ],
+  "egitim": [
+    {
+      "isim": "Egitim Uzmanı 1",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Planlama",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 2",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Pedagoji",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 3",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Anlatım",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 4",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Planlama",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 5",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Planlama",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 6",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Sabır",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 7",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Sabır",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 8",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 9",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Planlama",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 10",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Pedagoji",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 11",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 12",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Anlatım",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 13",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 14",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Pedagoji",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 15",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 16",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 17",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 18",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Planlama",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 19",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Pedagoji",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 20",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 21",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Sabır",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 22",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Anlatım",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 23",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 24",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Planlama",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 25",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Planlama",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 26",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Planlama",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 27",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 28",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Planlama",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 29",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Anlatım",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 30",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Pedagoji",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 31",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Sabır",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 32",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 33",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Anlatım",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 34",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Planlama",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 35",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Anlatım",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 36",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Planlama",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 37",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Sabır",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 38",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Anlatım",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 39",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Anlatım",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 40",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Anlatım",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 41",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Planlama",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 42",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Anlatım",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 43",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Anlatım",
+        "Planlama",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 44",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Planlama",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 45",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Pedagoji",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 46",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Planlama",
+        "Sabır"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 47",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Pedagoji",
+        "Anlatım",
+        "Planlama"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 48",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Pedagoji",
+        "Anlatım"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 49",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Sabır",
+        "Anlatım",
+        "Pedagoji"
+      ]
+    },
+    {
+      "isim": "Egitim Uzmanı 50",
+      "aciklama": "egitim alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Planlama",
+        "Pedagoji",
+        "Anlatım"
+      ]
+    }
+  ],
+  "muhendislik": [
+    {
+      "isim": "Muhendislik Uzmanı 1",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Fizik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 2",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Analitik Düşünme",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 3",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Fizik",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 4",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Fizik",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 5",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "Analitik Düşünme",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 6",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Matematik",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 7",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Fizik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 8",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Analitik Düşünme",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 9",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Fizik",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 10",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "Analitik Düşünme",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 11",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "CAD",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 12",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "CAD",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 13",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "Analitik Düşünme",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 14",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "CAD",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 15",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Matematik",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 16",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "CAD",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 17",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Matematik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 18",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "Matematik",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 19",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Fizik",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 20",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Analitik Düşünme",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 21",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Analitik Düşünme",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 22",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "CAD",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 23",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Matematik",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 24",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Matematik",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 25",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Matematik",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 26",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "Analitik Düşünme",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 27",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "CAD",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 28",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Analitik Düşünme",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 29",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Matematik",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 30",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "CAD",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 31",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Fizik",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 32",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Analitik Düşünme",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 33",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Matematik",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 34",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Matematik",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 35",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "Fizik",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 36",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Fizik",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 37",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "CAD",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 38",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Matematik",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 39",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "Matematik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 40",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Fizik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 41",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "CAD",
+        "Matematik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 42",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "CAD",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 43",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Fizik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 44",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Analitik Düşünme",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 45",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Analitik Düşünme",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 46",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "CAD",
+        "Matematik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 47",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "Analitik Düşünme",
+        "CAD"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 48",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Matematik",
+        "Fizik",
+        "Analitik Düşünme"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 49",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik Düşünme",
+        "CAD",
+        "Fizik"
+      ]
+    },
+    {
+      "isim": "Muhendislik Uzmanı 50",
+      "aciklama": "muhendislik alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Fizik",
+        "CAD",
+        "Analitik Düşünme"
+      ]
+    }
+  ],
+  "finans": [
+    {
+      "isim": "Finans Uzmanı 1",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 2",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Excel",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 3",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Excel",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 4",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Muhasebe",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 5",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 6",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 7",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Excel",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 8",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 9",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Excel",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 10",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Excel",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 11",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Excel",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 12",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 13",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Risk",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 14",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 15",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Risk",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 16",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Excel",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 17",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Muhasebe",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 18",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Risk",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 19",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Muhasebe",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 20",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 21",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 22",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Excel",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 23",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Excel",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 24",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Muhasebe",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 25",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 26",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 27",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 28",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 29",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 30",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Excel",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 31",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Risk",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 32",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Analiz",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 33",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Excel",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 34",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Excel",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 35",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Analiz",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 36",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Analiz",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 37",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Excel",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 38",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Analiz",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 39",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 40",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Analiz",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 41",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Risk",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 42",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Analiz",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 43",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Risk",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 44",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Analiz",
+        "Muhasebe"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 45",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Excel",
+        "Risk",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 46",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Risk",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 47",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Risk",
+        "Muhasebe",
+        "Excel"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 48",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Muhasebe",
+        "Risk"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 49",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Muhasebe",
+        "Excel",
+        "Analiz"
+      ]
+    },
+    {
+      "isim": "Finans Uzmanı 50",
+      "aciklama": "finans alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analiz",
+        "Excel",
+        "Risk"
+      ]
+    }
+  ],
+  "medya": [
+    {
+      "isim": "Medya Uzmanı 1",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 2",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kurgu",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 3",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "İletişim",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 4",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kamera",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 5",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 6",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 7",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Kamera",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 8",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 9",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 10",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Yaratıcılık",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 11",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 12",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 13",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Kurgu",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 14",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 15",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "İletişim",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 16",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kamera",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 17",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Kamera",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 18",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 19",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Yaratıcılık",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 20",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kamera",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 21",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 22",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "İletişim",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 23",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 24",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Yaratıcılık",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 25",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Yaratıcılık",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 26",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "İletişim",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 27",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kamera",
+        "İletişim",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 28",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kurgu",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 29",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Yaratıcılık",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 30",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Kurgu",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 31",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Yaratıcılık",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 32",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Kurgu",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 33",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "İletişim",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 34",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 35",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 36",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 37",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Kamera",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 38",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Yaratıcılık",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 39",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 40",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Yaratıcılık",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 41",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Yaratıcılık",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 42",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "İletişim",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 43",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 44",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "İletişim",
+        "Kamera",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 45",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "Kurgu"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 46",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kamera",
+        "Kurgu",
+        "Yaratıcılık"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 47",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Kurgu",
+        "Yaratıcılık",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 48",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kurgu",
+        "İletişim"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 49",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "İletişim",
+        "Kamera"
+      ]
+    },
+    {
+      "isim": "Medya Uzmanı 50",
+      "aciklama": "medya alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yaratıcılık",
+        "Kamera",
+        "Kurgu"
+      ]
+    }
+  ],
+  "hukuk": [
+    {
+      "isim": "Hukuk Uzmanı 1",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Yorumlama",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 2",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Mevzuat",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 3",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 4",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 5",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Mevzuat",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 6",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 7",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Yorumlama",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 8",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 9",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 10",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 11",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 12",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 13",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 14",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Mevzuat",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 15",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 16",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 17",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Yorumlama",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 18",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 19",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Yorumlama",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 20",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 21",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Mevzuat",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 22",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 23",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 24",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 25",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 26",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 27",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Yorumlama",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 28",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 29",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 30",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 31",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 32",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Yorumlama",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 33",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 34",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 35",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 36",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 37",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 38",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 39",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 40",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 41",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 42",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Mevzuat",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 43",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Analitik",
+        "Mevzuat",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 44",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Mevzuat",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 45",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 46",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Analitik",
+        "Mevzuat"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 47",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 48",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Yorumlama",
+        "Mevzuat",
+        "Analitik"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 49",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Analitik",
+        "Yorumlama"
+      ]
+    },
+    {
+      "isim": "Hukuk Uzmanı 50",
+      "aciklama": "hukuk alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Mevzuat",
+        "Yorumlama",
+        "Analitik"
+      ]
+    }
+  ],
+  "spor": [
+    {
+      "isim": "Spor Uzmanı 1",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 2",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 3",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Dayanıklılık",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 4",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Strateji",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 5",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 6",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 7",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 8",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Strateji",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 9",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 10",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 11",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Dayanıklılık",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 12",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 13",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Strateji",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 14",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 15",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 16",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 17",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 18",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Strateji",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 19",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Disiplin",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 20",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Strateji",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 21",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Strateji",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 22",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 23",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 24",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 25",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 26",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 27",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Dayanıklılık",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 28",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 29",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 30",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 31",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Dayanıklılık",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 32",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Disiplin",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 33",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 34",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 35",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 36",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 37",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Dayanıklılık",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 38",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 39",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 40",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 41",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 42",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Disiplin",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 43",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Dayanıklılık",
+        "Disiplin",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 44",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Disiplin",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 45",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 46",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Dayanıklılık",
+        "Strateji"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 47",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 48",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Dayanıklılık",
+        "Disiplin"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 49",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Disiplin",
+        "Strateji",
+        "Dayanıklılık"
+      ]
+    },
+    {
+      "isim": "Spor Uzmanı 50",
+      "aciklama": "spor alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Strateji",
+        "Disiplin",
+        "Dayanıklılık"
+      ]
+    }
+  ],
+  "oyun": [
+    {
+      "isim": "Oyun Uzmanı 1",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 2",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "Oyun Mekaniği",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 3",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Unity",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 4",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 5",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 6",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 7",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Oyun Mekaniği",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 8",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 9",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Tasarım",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 10",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Oyun Mekaniği",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 11",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Unity",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 12",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "C#",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 13",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 14",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 15",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "Oyun Mekaniği",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 16",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 17",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 18",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Tasarım",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 19",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Tasarım",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 20",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "Oyun Mekaniği",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 21",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "Unity",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 22",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 23",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 24",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Unity",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 25",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Tasarım",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 26",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 27",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "Tasarım",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 28",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "Unity",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 29",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 30",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Oyun Mekaniği",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 31",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Tasarım",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 32",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 33",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 34",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 35",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Tasarım",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 36",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Tasarım",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 37",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "Oyun Mekaniği",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 38",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "C#",
+        "Oyun Mekaniği"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 39",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "C#",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 40",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Oyun Mekaniği",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 41",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 42",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Oyun Mekaniği",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 43",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "Tasarım",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 44",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Tasarım",
+        "C#",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 45",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "C#",
+        "Unity",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 46",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Tasarım"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 47",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 48",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "C#",
+        "Unity"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 49",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Oyun Mekaniği",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "isim": "Oyun Uzmanı 50",
+      "aciklama": "oyun alanında uzmanlaşmış profesyonel meslek.",
+      "beceriler": [
+        "Unity",
+        "Tasarım",
+        "Oyun Mekaniği"
+      ]
+    }
+  ]
+}
