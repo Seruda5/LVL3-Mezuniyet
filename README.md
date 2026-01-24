@@ -15,7 +15,7 @@ Proje, Kodland Level 3 mezuniyet gereksinimlerine uygun olarak geliştirilmişti
 ---
 
 ## Botun Çalışma Mantığıı
-1. Kullanıcı `/basla` komutunu kullanır  
+1. Kullanıcı `!basla` komutunu kullanır  
 2. Bot, kullanıcıyı Discord kimliği (ID) ile tanır  
 3. Kullanıcı, butonlar aracılığıyla ilgi alanını seçer  
 4. Bot, veri tabanından uygun bir meslek önerir  
@@ -52,7 +52,7 @@ Bu yapı sayesinde bot, kalıcı veri kullanarak çalışır.
 ---
 
 ## Etkileşim Türle
-- Metin komutları (`/kayit`)
+- Metin komutları (`!kayit`)
 - Butonlar aracılığıyla seçim yapma
 - Metin tabanlı geri bildirimler
 
